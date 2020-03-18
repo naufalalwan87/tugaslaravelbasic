@@ -7,6 +7,7 @@
         <title>Selamat Datang</title>
 
         <!-- Fonts -->
+         <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('kopi.jpg')">
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
         <!-- Styles -->

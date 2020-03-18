@@ -4,7 +4,7 @@
 <html lang="en">
 
   <head>
-    <title>Ijen &mdash;</title>
+    <title>Alat Kopi Malang &mdash;</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -44,19 +44,19 @@
       
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('oke.jpg')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('alat.jpg')">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-7">
   
-              <h2>Data Pendaki Kawah Ijen</h2>
+              <h2>Data Stok Alat Kopi</h2>
   <table id="tabel-status-alat" class="table table-striped table-bordered table-hover">
   <thead  class="thead-dark">
 
 <tr>
     <th with="100px">No</th>
-    <th>Nama</th>
-    <th>Alamat</th>
+    <th>Alat</th>
+    <th>Stok</th>
     <th with="200px" class="text-center" >
       <a href="{{route('posts.create')}}" class="btn btn-success btn-sm">
         <i>TAMBAH</i>
@@ -93,12 +93,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 blog-content">
-            <h1>Gunung Ijen</h1>
-            <p class="lead" style="text-align: justify;">Gunung Ijen adalah sebuah gunung berapi yang terletak di perbatasan antara Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.386 mdpl dan terletak berdampingan dengan Gunung Marapi. Gunung Ijen terakhir meletus pada tahun 1999. Salah satu fenomena alam yang paling terkenal dari Gunung Ijen adalah blue fire di dalam kawah yang terletak di puncaknya. Pendakian gunung ini bisa dimulai dari dua tempat. Pendaki bisa berangkat dari Banyuwangi ataupun dari Bondowoso.</p>
+            <h1>Alat Kopi Malang</h1>
+            <p class="lead" style="text-align: justify;">Jual Mesin Kopi Dan Aneka Makanan Import, Supermarket Malang
+Sukses Jaya merupakan Supermarket yang telah berdiri lama di kota Malang. Produk yang dijual oleh Sukses Jaya juga beragam, mulai dari peralatan dapur, perlengkapan dapur, aneka bahan makananan lokal dan import, hingga mesin-mesin seperti mesin kopi. Jika Anda memiliki usaha atau bisnis di dunia makanan, seperti rumah makan, cafe, ataupun restoran maka Sukses Jaya adalah tempat yang cocok untuk menjadi supplier berbagai kebutuhan bisnis Anda. Sukses Jaya,Supermarket dan Supplier Mesin Kopi & Bahan Makanan Malang.</p>
 
-            <h1>Rute Pendakian</h1>
+            <h1>Alat Kopi</h1>
             <p class="lead" style="text-align: justify;">
-Untuk mencapai kawah Gunung Ijen di Banyuwangi, bisa menggunakan kereta api ekonomi dengan tujuan Banyuwangi dan turun di Stasiun Karangasem kemudian naik ojek dengan tujuan Kecamatan Licin dan Desa Banyusari. Dari Banyusari, perjalanan dilanjutkan menuju Paltuding dengan menumpang truk pengangkut belerang atau menggunakan bus dan turun di Banyuwangi kota kemudian naik ojek bisa langsung ke Paltuding atau ke Desa Banyusari juga bisa namun dengan menggunakan bus tarif yang dikeluarkan akan lebih mahal. Pintu gerbang utama ke Cagar Alam Taman Wisata Kawah Ijen terletak di Paltuding, yang juga merupakan Pos PHPA (Perlindungan Hutan dan Pelestarian Alam). Alternatif rute adalah Bondowoso - Wonosari - Tapen - Sempol - Paltuding. Fasilitas lain yang dapat dinikmati oleh pengunjung antara lain pondok wisata dan warung yang menjual keperluan pendakian untuk menyaksikan keindahan kawah Ijen. Dari Paltuding berjalan kaki dengan jarak sekitar 3 km. Lintasan awal sejauh 2 KM cukup berat karena menanjak. Sebagian besar jalur adalah dengan kemiringan 25-35 derajat. Selain menanjak, struktur tanahnya juga berpasir sehingga menambah semakin berat langkah kaki karena harus menahan berat badan agar tidak merosot ke belakang. Setelah beristirahat di Warung Pos Bundar (pos yang unik karena memiliki bentuk lingkaran), jalur selanjutnya naik agak curam dan licin, dilanjutkan 1 KM terakhir relatif landai, tetapi wisatawan / pendaki disuguhi pemandangan deretan pegunungan yang sangat indah. Untuk turun menuju ke kawah harus melintasi medan berbatu-batu sejauh 800 meter dengan kondisi yang terjal hingga kemiringan 45 derajat. </p>
+Alat kopi manual merupakan suatu alat yang dipakai untuk membuat kopi dengan cara manusia yang menggerakan alat tersebut tanpa adanya bantuan dari mesin. Karena alat kopi manual tidak mengandalkan mesin, hasil yang didapat bisa lebih mengena tergantung dari tangan atau racikan sendiri. Alat kopi manual atau juga dikenal dengan nama manual brew, saat ini memang sering digunakan dan dipakai untuk meracik kopi atau membuat kopi di café café ataupun coffee shop.alat kopi manual atau manual brew ini memiliki harga yang relativ murah dan dapat dijangkau oleh segala kalangan. Dilihat dari tipe dan jenisnya alat manual brew harus disesuaikan dimana kebutuhanmu apakah untuk traveling, konsumsi harian di rumah bahkan bisa juga untuk usaha. Untuk mengetahui jenis jenis dari alat kopi </p>
 
 
            
@@ -140,34 +141,33 @@ Untuk mencapai kawah Gunung Ijen di Banyuwangi, bisa menggunakan kereta api ekon
             <div class="row">
 
    <div> Telp.089637601776</div>
-   <div> IG.@SekilasIjen</div>
-    <div>Email.SekilasIjen@gmail.com</div>
+   <div> IG.@Alatkopimalang</div>
+    <div>Email.AlatKopiMalang.com</div>
             </div>
           </div>
           <div class="col-lg-8 ml-auto">
             <div class="row">
               <div class="col-lg-6 ml-auto">
-                <h2 class="footer-heading mb-4">Harga Tiket Masuk Kawah Ijen:</h2>
+                <h2 class="footer-heading mb-4">Kategori Alat</h2>
                 <ul class="list-unstyled">
                 
 
 
-   <div> Wisatawan lokal :</div>
-   <div> Weekdays          Rp5.000</div>
-    <div>Weekend           Rp7.500</div>
-    <div>Wisatawan mancanegara  :</div>
-    <div>Weekdays          Rp100.000</div>
-    <div>Weekend           Rp150.000</div>
+   <div> Vietnam drip</div>
+   <div> V60</div>
+    <div> Aeropress</div>
+    <div> Grinder</div>
+    <div>FrenchPress</div>
+    
                 </ul>
               </div>
               <div class="col-lg-6">
-                <h2 class="footer-heading mb-4">Info Umum Gunung Ijen</h2>
-               <div>Ketinggian: 2.799 m</div>
-<div>Ketinggian relatif: 1.218 m</div>
-<div>Letusan terakhir: 1999</div>
-<div>Letak: Jawa Timur, Indonesia</div>
-<div>Provinsi: Jawa Timur</div>
-<div>Jenis gunung: Stratovolcano</div>
+                <h2 class="footer-heading mb-4">Navigasi</h2>
+               <div>Home</div>
+<div>Tentang Kami</div>
+<div>Hubungi Kami</div>
+<div>Kebijakan Privasi</div>
+
                 </form>
               </div>
               

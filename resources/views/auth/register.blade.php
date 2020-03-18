@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('alat.jpg')">
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">

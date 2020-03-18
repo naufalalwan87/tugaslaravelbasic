@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-header">{{ __('Login') }}</div>
 
-                <div class="card-body">
+                <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('alat.jpg')">
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
 
